@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.exe
+C:\Users\Yasin\TechAcademy\vs-tour\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\MathAndComparisonOperators.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.exe
+C:\Users\Yasin\TechAcademy\vs-tour\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\MathAndComparisonOperators.pdb
